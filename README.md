@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arunkumarvishwakarma
 - 👀 I’m interested in coding basically
-- 🌱 I’m currently learning python language as well as kotlin language
+- 🌱 I’m currently learning python language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
